@@ -1,0 +1,2 @@
+j.perez;12345;Estudiante;software,diseno,Matematicas;false;1;Matematicas Avanzadas
+ProfesorLinares;54321;Profesor;1;Matematicas Avanzadas
